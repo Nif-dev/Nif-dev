@@ -36,7 +36,7 @@ En formation **Concepteur et Développeur d'Applications** à l'**AFPA Brest**. 
 
 ## 🚀 Projets
 - **[GEMENY]** - Interface d'essai React.ts pour offuscation données via appels API GEMENY 
-  [Gemeny Software](https://www.gemeny.io/) | [Lien direct interface](https://gemeny.surge.sh/)
+- [Gemeny Software](https://www.gemeny.io/) | [Lien direct interface](https://gemeny.surge.sh/)
 
 ## 📚 Parcours
 - **2025** : Stage dev web - Gemeny Software (Brest) - 10 semaines
