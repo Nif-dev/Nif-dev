@@ -23,6 +23,7 @@ En formation **Concepteur et Développeur d'Applications** à l'**AFPA Brest**. 
 - Conception Merise
 
 ### Outils & DevOps
+- Linux
 - Git / GitLab
 - Docker
 - VS Code, IntelliJ
